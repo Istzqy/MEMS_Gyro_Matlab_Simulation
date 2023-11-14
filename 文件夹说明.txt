@@ -1,1 +1,4 @@
-用来对质量块陀螺运动方程进行Simulink建模（参考曹慧亮大论文）
+用来对质量块陀螺运动方程进行Simulink建模（参考曹慧亮、王海鹏大论文）
+MEMS_Gyro_Structure_Model_231114.slx  最终完整的对质量块硅微机械陀螺系统（驱动+检测）模型仿真+自激闭环驱动仿真
+LPF_Transfer_Function_Bode_Analysis.slx 对传递函数搭建的低通滤波器进行伯德图观察，参考：https://blog.csdn.net/weixin_33896069/article/details/93326104
+LowPass_Test.slx 对两种搭建的低通滤波器进行测试，注意对最大仿真步长进行设置，否则观察到波形是失真的
