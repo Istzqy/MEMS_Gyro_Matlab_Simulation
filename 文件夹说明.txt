@@ -6,3 +6,4 @@ MEMS_Gyro_PLL_Closed_loop_drive_231115.slx 对PLL闭环驱动控制进行仿真�
 PID_Control_DifferenceEquation.m 利用Matlab，增量式PID，利用差分方程迭代求解，实现对一个二阶系统的阶跃响应控制 
 MEMS_Gyro_DriveModeCloseLoopControl_231117.slx 陀螺驱动模态闭环控制（PLL频率跟踪+AGC幅值稳定）（参考王晓雷大论文）
 MEMS_Gyro_SenseModeControl.slx 闭环检测与开环检测仿真（参考夏国明大论文）
+MEMS_Gyro_Open_SenseMode.slx 开环检测完整详细仿真（参考杨成大论文）
