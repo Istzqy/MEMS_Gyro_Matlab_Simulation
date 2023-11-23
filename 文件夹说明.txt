@@ -7,3 +7,5 @@ PID_Control_DifferenceEquation.m 利用Matlab，增量式PID，利用差分方�
 MEMS_Gyro_DriveModeCloseLoopControl_231117.slx 陀螺驱动模态闭环控制（PLL频率跟踪+AGC幅值稳定）（参考王晓雷大论文）
 MEMS_Gyro_SenseModeControl.slx 闭环检测与开环检测仿真（参考夏国明大论文）
 MEMS_Gyro_Open_SenseMode.slx 开环检测完整详细仿真（参考杨成大论文）
+MEMS_Gyro_Closed_SenseMode_yangchenglunwen.slx 闭环检测+PIPLC数字校正仿真，参数可能有一定问题，他的频率特性与论文有出入，但基本流程都有，具体在仿真注释有说明
+%%% 最后修改 231123
