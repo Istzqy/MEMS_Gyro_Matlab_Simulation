@@ -1,2 +1,3 @@
 # MEMS_Gyro_Matlab_Simulation
-对硅微机械陀螺的系统结构、自激振荡驱动、PLL闭环驱动进行Simulink仿真
+对硅微机械陀螺的系统结构、自激振荡驱动、PLL闭环驱动、开环检测、闭环检测等进行Simulink仿真
+详细说明见文件夹说明
